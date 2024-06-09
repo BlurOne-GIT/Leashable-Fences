@@ -1,0 +1,8 @@
+name: Leashable-Fences
+version: '${project.version}'
+main: code.blurone.leashablefences.LeashableFences
+api-version: '1.20'
+load: STARTUP
+authors: [BlurOne!]
+description: Allows fences to be leashed together without the need of a mob.
+website: https://github.com/BlurOne-GIT/Leashable-Fences
